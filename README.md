@@ -1,3 +1,5 @@
+[![Watch the video](https://user-images.githubusercontent.com/31118924/97807780-d7bf1700-1c9d-11eb-8de4-ae69a53ab555.png)](https://www.youtube.com/watch?v=6yvr2dA5F1A&feature=youtu.be)
+
 # Apricot_hotel_management_chatbot
 
 This project aims to buil a chatbot system for hotel management to assist management to quickly understand the property performances and respond to customer feedback. 
