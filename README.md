@@ -14,8 +14,8 @@ The chatbot system consists of the following functions:
 * check out requirement.txt for required python packages
 * Additinally, Installation of spaCY and the required models:
 ```
-    	pip install -U spacy
-    	python -m spacy download en_core_web_sm
+pip install -U spacy
+python -m spacy download en_core_web_sm
 ```
 * Integration of chatbot into Slack [Slack bot Setup](https://medium.com/nerd-for-tech/how-to-make-a-slack-bot-in-python-using-slacks-rtm-api-335b393563cd) 
 
