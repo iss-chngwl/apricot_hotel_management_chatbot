@@ -1,0 +1,1 @@
+{"name": "change", "confirm_text": "to change your pervious query constraint", "descriptions": "\nchange slot of other intents\n", "slot": [{"id": 0, "name": "entity", "default": [], "slot_filling_question": "Which you want to look at?", "value_type": [], "is_mandatory": true}]}
