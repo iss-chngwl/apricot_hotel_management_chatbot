@@ -20,7 +20,7 @@ The chatbot system consists of the following functions:
 pip install -U spacy
 python -m spacy download en_core_web_sm
 ```
-* Integration of chatbot into Slack [Slack bot Setup](https://medium.com/nerd-for-tech/how-to-make-a-slack-bot-in-python-using-slacks-rtm-api-335b393563cd) 
+* Integration of chatbot into Slack - [Slack bot Setup](https://medium.com/nerd-for-tech/how-to-make-a-slack-bot-in-python-using-slacks-rtm-api-335b393563cd) 
   - create a Classic Slack bot to interact with Slack RTM API
   - obtain Slack User Oauth Access Token
   - paste the token into chatbot_testing_slack.py
